@@ -9,7 +9,7 @@ From https://en.wikibooks.org/wiki/Cookbook:Traditional_Lasagne
 1 can (400 g) quality chopped plum tomatoes
 10-15 basil leaves, chopped or torn (or 1 tsp dried basil)
 1/2 tsp dried oregano
-5 crushed black peppercorns (or to taste)
+5 crushed black **peppercorns** (or to taste)
 1 tsp sea salt (or to taste)
 1/2 tsp sugar
 (Optionally) 150-200 ml red wine
